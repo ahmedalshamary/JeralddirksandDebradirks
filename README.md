@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hydeout
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
@@ -161,3 +162,7 @@ You can see the full set of partials you can replace in the
 
 There's also a bunch of minor tweaks and adjustments throughout the
 theme. Hope this works for you!
+=======
+# jeralddirksanddebradirks
+A website for Jerald and Debra Dirks
+>>>>>>> 93d11edee5294e85ffbbb0d13a3b8b70c2a9c42c
