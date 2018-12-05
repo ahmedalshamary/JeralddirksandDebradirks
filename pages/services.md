@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Services
-sidebar_link: true
+#layout: page
+#title: Services
+#sidebar_link: true
 ---
 
 Scheduling Lectures and Workshops:
