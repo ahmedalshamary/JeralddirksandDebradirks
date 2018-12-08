@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Books
 sidebar_link: true
 ---
 
